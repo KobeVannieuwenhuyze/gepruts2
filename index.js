@@ -9,6 +9,8 @@ var prijs = 0;
   
 
 if (path.includes("index.html")) {
+console.log("Geen winkelwagen opgeslagen.");
+  
     // Verschillende artiekelen
 const bockor = document.getElementById("bockor");
 const carlsberg = document.getElementById("carlsberg");
