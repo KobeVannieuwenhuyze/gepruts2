@@ -9,7 +9,7 @@ var prijs = 0;
   
 
 if (path.includes("index.html")) {
-console.log("Geen winkelwagen opgeslagen.");
+console.log("test include");
   
     // Verschillende artiekelen
 const bockor = document.getElementById("bockor");
