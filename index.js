@@ -1,3 +1,5 @@
+console.log("Geen winkelwagen opgeslagen.");
+
 const path = window.location.pathname;
 
 const artiekels_prijs = { 'bockor': 3, 'carlsberg': 3, 'omer': 5, 'duvel': 5, 'kriek': 3, 'rouge': 4, 'cola': 3, 'colazero': 3, 'fanta': 3, 'icetea': 3, 'platwater': 2, 'spuitwater': 2, 'witglas': 5, 'roseglas': 5, 'roodglas': 5, 'witfles': 18, 'rosefles': 18, 'roodfles': 18, 'cavaglas': 6, 'cavafles': 22, 'chips': 2, 'aperobordje': 4, 'beker/glas': 1, 'beker': -1 };
