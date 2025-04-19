@@ -8,7 +8,7 @@ var artiekels_aantal = { 'bockor': 0, 'carlsberg': 0, 'omer': 0, 'duvel': 0, 'kr
 var prijs = 0;
   
 
-if (path.includes("index.html")) {
+
 console.log("test include");
   
     // Verschillende artiekelen
@@ -99,7 +99,7 @@ berekenen.onclick = function () {
     let query = '';
 window.location = `betalen.html`;
 }
-}
+
 
 
 if (path.includes("betalen.html")) {
