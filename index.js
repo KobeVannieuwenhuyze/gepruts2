@@ -1,4 +1,4 @@
-console.log("Geen winkelwagen opgeslagen.");
+console.log("test");
 
 const path = window.location.pathname;
 
