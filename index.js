@@ -97,6 +97,7 @@ berekenen.onclick = function () {
     let query = '';
 window.location = `betalen.html`;
 }
+}
 
 
 else if (path.includes("betalen.html")) {
