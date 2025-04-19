@@ -100,7 +100,7 @@ window.location = `betalen.html`;
 }
 
 
-else if (path.includes("betalen.html")) {
+if (path.includes("betalen.html")) {
     for (label in artiekels_aantal) {
         prijs += artiekels_aantal[label] * artiekels_prijs[label];
     }
